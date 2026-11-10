@@ -2,5 +2,5 @@
   "versionCode": 2,
   "versionName": "2.2.1",
   "url": "https://github.com/endrybit/zeta/releases/download/V2.2.2/Zeta.V2.2.2.apk",
-  "notas": "Parche corrección de hora local y tickcet de cierre."
+  "notas": "Parche para reducir el tamaño de los tickets."
 }
