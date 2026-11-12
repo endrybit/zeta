@@ -1,6 +1,6 @@
 {  
-  "versionCode": 2,
+  "oficial": "si",
   "versionName": "2.2.2",
-  "url": "https://github.com/endrybit/zeta/releases/download/V2.2.2/Zeta.V2.2.2.apk",
-  "notas": "Parche para reducir el tamaño de los tickets."
+  "url": "https://github.com/endrybit/zeta/releases/download/V3.0.0/Zeta.V3.0.0.apk",
+  "notas": "Actualización para los telefonos nuevos."
 }
